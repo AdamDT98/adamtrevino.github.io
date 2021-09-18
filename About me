@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+body{
+border-style:solid;
+color:brown;
+margin:20;
+padding-left:20px;
+padding-right:20px;
+padding-bottom:20px;
+}
+h1,h2,up{
+font-family:monospace;
+color:brown;
+}
+.tanuki{
+float:left;
+margin-right:50;
+} I
+</style>
+<body>
+<h1><strong>Adam Trevino</strong></h1>
+<img src="<img src=“ http://petslady.com/sites/default/files/inline-images/Screen%20Shot%202017-03-16%20at%2012.52.31%20PM.png”width="200" alt="tanuki because no image of me" class="tanuki">
+<h2>Me</h2>
+<ul>
+<li> I am 17 ( 18 in November)</li>
+<li> I am currently in my senior year of high school.</li>
+<li> I go to Independence High School.</li>
+</ul>
+<a href="https://independence.kernhigh.org/"</a><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEBOF-uGiAflQ/company-logo_200_200/0/1545465732109?e=2159024400&v=beta&t=Jscstb4OsKlU8QkSycDepVe3kmiShwm8GTA6yzRhst8" width="200" alt=" school logo"</a>
+</body>
